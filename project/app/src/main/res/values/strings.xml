@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Secure Messenger</string>
+    <string name="send_button">Отправить</string>
+    <string name="message_hint">Введите сообщение</string>
+    <string name="generating_keys">Генерация ключей...</string>
+    <string name="exchange_keys">Обмен ключами</string>
+</resources>
